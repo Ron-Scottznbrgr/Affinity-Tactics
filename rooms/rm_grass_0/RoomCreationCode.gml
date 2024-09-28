@@ -1,0 +1,1 @@
+//scr_OW_textbox("I want Shreddies.", "This game doesn't seem capable of producing such gift unfortunately.", "Shit...");

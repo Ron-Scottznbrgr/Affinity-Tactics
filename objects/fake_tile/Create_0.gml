@@ -1,0 +1,12 @@
+flashAlpha=0;
+flashColor=c_red;
+RemoveColor=0;
+occupied=false;
+hex_tile_id=-1;
+array_x=9001;
+array_y=9001;
+selectable=false;
+is_fake_tile=true;
+in_range=false;
+the_cursor=false;
+false_selectable=false;
